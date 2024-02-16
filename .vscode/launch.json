@@ -1,0 +1,185 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "JdbcConnection",
+      "request": "launch",
+      "mainClass": "javadatabase.JdbcConnection",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "Square",
+      "request": "launch",
+      "mainClass": "Square",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "CircularLinkedList",
+      "request": "launch",
+      "mainClass": "CircularLinkedList",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "DoublyLinkedListExample",
+      "request": "launch",
+      "mainClass": "DoublyLinkedListExample",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "LinkedListExample",
+      "request": "launch",
+      "mainClass": "LinkedListExample",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "Factorial",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "Multiply",
+      "request": "launch",
+      "mainClass": "Multiply",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "ForEach",
+      "request": "launch",
+      "mainClass": "ForEach",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "DivisibleBy",
+      "request": "launch",
+      "mainClass": "DivisibleBy",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "Series",
+      "request": "launch",
+      "mainClass": "Series",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "Example",
+      "request": "launch",
+      "mainClass": "Example",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "GreatestTernaryOperator",
+      "request": "launch",
+      "mainClass": "GreatestTernaryOperator",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "SmallestTernaryOperator",
+      "request": "launch",
+      "mainClass": "SmallestTernaryOperator",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "SmallestOne",
+      "request": "launch",
+      "mainClass": "SmallestOne",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "LogicalBoolean",
+      "request": "launch",
+      "mainClass": "LogicalBoolean",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionExample",
+      "request": "launch",
+      "mainClass": "ExceptionExample",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "TypeCasting",
+      "request": "launch",
+      "mainClass": "TypeCasting",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "PositiveNegative",
+      "request": "launch",
+      "mainClass": "PositiveNegative",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "EvenOdd",
+      "request": "launch",
+      "mainClass": "EvenOdd",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "SimpleInterest",
+      "request": "launch",
+      "mainClass": "SimpleInterest",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "InterestExample",
+      "request": "launch",
+      "mainClass": "InterestExample",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/97797/OneDrive/Desktop/javapractice",
+      "program": "c:/Users/97797/OneDrive/Desktop/javapractice/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
