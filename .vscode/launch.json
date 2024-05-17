@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FoodOrder",
+      "request": "launch",
+      "mainClass": "FoodOrder",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "ATM",
+      "request": "launch",
+      "mainClass": "ATM",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "FlappyBird",
+      "request": "launch",
+      "mainClass": "FlappyBird",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "Tetris",
+      "request": "launch",
+      "mainClass": "Tetris",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
+      "name": "Server",
+      "request": "launch",
+      "mainClass": "Server",
+      "projectName": "javapractice_9f47f024"
+    },
+    {
+      "type": "java",
       "name": "JdbcConnection",
       "request": "launch",
       "mainClass": "javadatabase.JdbcConnection",
